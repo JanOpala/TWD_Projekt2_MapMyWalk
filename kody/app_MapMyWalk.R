@@ -8,9 +8,6 @@ library(jsonlite)
 library(RColorBrewer)
 library(leaflet)
 
-
-setwd("C:/Users/domin/Documents/Studia/TWD/pr2")
-
 ui <- dashboardPage(
   dashboardHeader(title = tags$img(src = "logo2.png", width = "100%", height = "51px"), titleWidth = "350px"),
   dashboardSidebar(
