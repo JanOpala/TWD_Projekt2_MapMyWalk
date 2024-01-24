@@ -42,3 +42,5 @@ W zakładce *Powietrze* umieściliśmy wykresy pokazujące związek jakości pow
 ![screen4](./ScreenShoty/Muzyka.png) 
 
 W zakładce *Muzyka* skupiliśmy się na pokazaniu, jakich utworów słuchaliśmy podczas spacerów oraz czy słuchanie muzyki wpływało na prędkość chodzenia. Dane zebraliśmy z aplikacji Spotify, której wszyscy używamy.
+
+Mamy nadzieję, że nasza aplikacja przypadła Państwu do gustu. Życzymy smacznej kawusi 🥰
