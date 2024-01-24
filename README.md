@@ -23,6 +23,6 @@ W panelu głównym zawarliśmy wszystkie naszym zdaniem istotne informacje wprow
 
 ## Powietrze
 
-W zakładce **Powietrze** umieściliśmy wykresy pokazujące związek jakości powietrza z tym, kiedy i ile chodziliśmy. Zamieściliśmy informacje wyjaśniające, czym jest indeks AQI stosowany do opisu stanu powietrza, o używanej przez nas słownej skali jakości powietrza, jak i o przedziałach czasowych pór dnia.
+W zakładce **Powietrze** umieściliśmy wykresy pokazujące związek jakości powietrza z tym, kiedy i ile chodziliśmy. Dane dotyczące aktualnej jakości powietrza braliśmy ze strony air.plumelabs.com. Zamieściliśmy informacje wyjaśniające, czym jest indeks AQI stosowany do opisu stanu powietrza, jakiej używamy słownej skali jakości powietrza oraz jakim przedziałom czasowym odpowiadają poszczególne pory dnia. 
 
 ## Muzyka
