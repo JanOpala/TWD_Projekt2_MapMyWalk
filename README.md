@@ -21,6 +21,8 @@ W panelu głównym zawarliśmy wszystkie naszym zdaniem istotne informacje wprow
 
 ## Aktywność
 
+W zakładce **AKtywność** zaprezentowaliśmy 2 wykresy przedstawiające różne zależności między typem wykonywanej aktywności a poświeconym jej czasem lub przebytym dsytansem. Daliśmy tam też możliwość wyboru typu przedstawiania danych na wykresie (sumaryczny lub średni na dzień). Ponadto umieściliśmy tam też wykres przedstawiający rozkład liczby kroków/dystans na dzień w danym okresie czasu.
+
 ## Powietrze
 
 W zakładce **Powietrze** umieściliśmy wykresy pokazujące związek jakości powietrza z tym, kiedy i ile chodziliśmy. Dane dotyczące aktualnej jakości powietrza braliśmy ze strony air.plumelabs.com. Zamieściliśmy informacje wyjaśniające, czym jest indeks AQI stosowany do opisu stanu powietrza, jakiej używamy słownej skali jakości powietrza oraz jakim przedziałom czasowym odpowiadają poszczególne pory dnia. 
