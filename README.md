@@ -21,16 +21,24 @@ Menu z lewej strony pozwala nam na wybór osoby, której dane chcemy analizować
 
 ## Panel główny
 
+![screen1](./ScreenShoty/Panel_główny.png) 
+
 W panelu głównym zawarliśmy wszystkie najistotniejsze informacje wprowadzające dla użytkownika. Dodatkowo, zamieściliśmy mapę z biblioteki *leaflet*, która pokazuje jakie 5 miejsc najczęściej odwiedzała dana osoba w wybranym zakresie czasu.
 
 ## Aktywność
+
+![screen2](./ScreenShoty/Aktywność.png) 
 
 W zakładce *Aktywność* zaprezentowaliśmy wykresy przedstawiające różne zależności między typem wykonywanej aktywności a poświęconym jej czasem lub przebytym dystansem. Daliśmy tam też możliwość wyboru typu przedstawiania danych na wykresie (sumaryczny lub średni na dzień). Ponadto umieściliśmy tam wykres przedstawiający rozkład liczby kroków/dystansu na dzień w danym okresie czasu.
 
 ## Powietrze
 
+![screen3](./ScreenShoty/Powietrze.png) 
+
 W zakładce *Powietrze* umieściliśmy wykresy pokazujące związek jakości powietrza z tym, kiedy i ile chodziliśmy. Dane dotyczące aktualnej jakości powietrza braliśmy ze strony air.plumelabs.com. Zamieściliśmy również informacje wyjaśniające, czym jest indeks AQI stosowany do opisu stanu powietrza, jakiej używamy słownej skali jakości powietrza oraz jakim przedziałom czasowym odpowiadają poszczególne pory dnia.
 
 ## Muzyka
+
+![screen4](./ScreenShoty/Muzyka.png) 
 
 W zakładce *Muzyka* skupiliśmy się na pokazaniu, jakich utworów słuchaliśmy podczas spacerów oraz czy słuchanie muzyki wpływało na prędkość chodzenia. Dane zebraliśmy z aplikacji Spotify, której wszyscy używamy.
