@@ -13,18 +13,18 @@ Pokrótce postaramy się Państwu przedstawić naszą aplikację analizując jej
 
 Aplikacja pozwala nam przełączać się między kartami, każda z nich analizuje inny aspekt naszych spacerów.
 
-Menu z lewej strony pozwala nam na wybór osoby, której dane chcemy analizować, a także możemy wybrać zakres dat tzn. z jakich dni chcemy brać dane do wykresów.
+Menu z lewej strony pozwala nam na wybór osoby, której dane chcemy analizować, a także wybrać zakres dat, tzn. z jakich dni chcemy brać dane do wykresów.
 
 ## Panel główny
 
-W panelu głównym zawarliśmy wszystkie naszym zdaniem istotne informacje wprowadzające dla użytkownika. Dodatkowo, zamieściliśmy mapę z biblioteki *leaflet*, która 
+W panelu głównym zawarliśmy wszystkie najistotniejsze informacje wprowadzające dla użytkownika. Dodatkowo, zamieściliśmy mapę z biblioteki *leaflet*, która pokazuje jakie 5 miejsc najczęściej odwiedzała dana osoba w wybranym zakresie czasu.
 
 ## Aktywność
 
-W zakładce *Aktywność* zaprezentowaliśmy 2 wykresy przedstawiające różne zależności między typem wykonywanej aktywności a poświeconym jej czasem lub przebytym dsytansem. Daliśmy tam też możliwość wyboru typu przedstawiania danych na wykresie (sumaryczny lub średni na dzień). Ponadto umieściliśmy tam też wykres przedstawiający rozkład liczby kroków/dystans na dzień w danym okresie czasu.
+W zakładce *Aktywność* zaprezentowaliśmy wykresy przedstawiające różne zależności między typem wykonywanej aktywności a poświęconym jej czasem lub przebytym dystansem. Daliśmy tam też możliwość wyboru typu przedstawiania danych na wykresie (sumaryczny lub średni na dzień). Ponadto umieściliśmy tam wykres przedstawiający rozkład liczby kroków/dystansu na dzień w danym okresie czasu.
 
 ## Powietrze
 
-W zakładce *Powietrze* umieściliśmy wykresy pokazujące związek jakości powietrza z tym, kiedy i ile chodziliśmy. Dane dotyczące aktualnej jakości powietrza braliśmy ze strony air.plumelabs.com. Zamieściliśmy informacje wyjaśniające, czym jest indeks AQI stosowany do opisu stanu powietrza, jakiej używamy słownej skali jakości powietrza oraz jakim przedziałom czasowym odpowiadają poszczególne pory dnia. 
+W zakładce *Powietrze* umieściliśmy wykresy pokazujące związek jakości powietrza z tym, kiedy i ile chodziliśmy. Dane dotyczące aktualnej jakości powietrza braliśmy ze strony air.plumelabs.com. Zamieściliśmy również informacje wyjaśniające, czym jest indeks AQI stosowany do opisu stanu powietrza, jakiej używamy słownej skali jakości powietrza oraz jakim przedziałom czasowym odpowiadają poszczególne pory dnia.
 
 ## Muzyka
