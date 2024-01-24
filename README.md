@@ -7,7 +7,7 @@ Jest to dashboard funkcjonalny, który przetwarza dane pochodzące z aplikacji M
 Przez ostatnie dwa miesiące systematycznie dokonywaliśmy pomiarów podczas naszych codziennych spacerów i zapisywaliśmy dodatkowe informacje takie jak jakość powietrza, cel spaceru, czy to, czy podczas danego spaceru słuchamy muzyki na Spotify, czy nie.
 
 Efekty naszej pracy i analizy można podziwiać w skończonej aplikacji, która jest dostępna w tym repozytorium.
-Pokrótce postaramy się Państwu przedstawić naszą aplikację analizując jej rózne funkcje.
+Pokrótce postaramy się Państwu przedstawić naszą aplikację analizując jej różne funkcje.
 
 ## Podstawowe funkcje
 
@@ -22,5 +22,7 @@ W panelu głównym zawarliśmy wszystkie naszym zdaniem istotne informacje wprow
 ## Aktywność
 
 ## Powietrze
+
+W zakładce **Powietrze** umieściliśmy wykresy pokazujące związek jakości powietrza z tym, kiedy i ile chodziliśmy. Zamieściliśmy informacje wyjaśniające, czym jest indeks AQI stosowany do opisu stanu powietrza, o używanej przez nas słownej skali jakości powietrza, jak i o przedziałach czasowych pór dnia.
 
 ## Muzyka
