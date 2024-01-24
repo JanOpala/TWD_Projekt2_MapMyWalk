@@ -1,6 +1,9 @@
 # TWD Projekt2 MapMyWalk
 ![logo](./www/logo.png) 
 
+Link do pobrania nagrania: https://mega.nz/file/ItgGHJja#Y4QMA5iMe2ZXlrjI156BlmCyGKoLVfFfrurJzLMrWF0
+Link do obejrzenia nagrania: https://youtu.be/5F-_NUIdOLQ
+
 Jako grupa projektowa mamy przyjemność zaprezentować Państwu naszą aplikację webową Map My Walk.
 Jest to dashboard funkcjonalny, który przetwarza dane pochodzące z aplikacji MapMyRun, a także historię odsłuchanych piosenek ze Spotify. 
 
