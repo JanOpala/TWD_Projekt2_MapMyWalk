@@ -1,4 +1,4 @@
-# TWD Projekt2 MapMyWalk
+# MapMy...Walk!
 ![logo](./www/logo.png) 
 
 Link do pobrania nagrania: https://mega.nz/file/ItgGHJja#Y4QMA5iMe2ZXlrjI156BlmCyGKoLVfFfrurJzLMrWF0
